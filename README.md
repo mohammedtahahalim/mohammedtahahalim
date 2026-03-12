@@ -1,6 +1,6 @@
 <p align="center">
 <a href="[https://github.com/mohammedtahahalim](https://github.com/mohammedtahahalim)">
-    <img src=" https://readme-typing-svg.demolab.com/demo/?lines=Mohammed+Taha+HALIM;Full-Stack+Engineer+%E2%80%94+React+%2F+TypeScript+%2F+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/demo/?lines=Mohammed+Taha+HALIM;Full-Stack+Engineer+%E2%80%94+React+%2F+TypeScript+%2F+Node.js" alt="Typing SVG" />
 </a>
 <br/>
 
