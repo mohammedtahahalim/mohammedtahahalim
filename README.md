@@ -1,16 +1,27 @@
-## Hi there 👋
+<p align="center">
+<a href="https://github.com/TheRealPad">
+    <img src=" https://readme-typing-svg.demolab.com/demo/?lines=Mohammed+Taha+HALIM;Full-Stack+Engineer+%E2%80%94+React+%2F+TypeScript+%2F+Node.js" alt="Typing SVG" />
+</a>
+<br/>
 
-<!--
-**mohammedtahahalim/mohammedtahahalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/> 
 
-Here are some ideas to get you started:
+<a href="https://github.com/mohammedtahahalim">
+    <img src="https://github-stats-alpha.vercel.app/api?username=mohammedtahahalim&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<summary>Summary</summary>
+<br>
+Full-Stack Engineer with 5+ years of experience building production web applications using React, TypeScript, and
+Node.js. Specialized in authentication systems, RBAC architectures, and scalable frontend state design. Experienced
+delivering end-to-end features across retail, research, and R&D environments while collaborating with international
+teams. Improved system performance and reliability through API optimization, structured testing practices, and
+scalable frontend architecture.
+
+<p align="center">
+  <a href="https://github.com/mohammedtahahalim">
+    <img src="https://komarev.com/ghpvc/?username=mohammedtahahalim&color=blue&style=flat" />
+  </a>
+</p>
